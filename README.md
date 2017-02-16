@@ -63,10 +63,10 @@ Check elasticsearch version
 elasticsearch --version
 ```
 
-Start elasticsearch with 
+Start elasticsearch with as a daemon
 
 ```
-elasticsearch
+elasticsearch -d
 ```
 
 Check that elasticsearch is up and running:
