@@ -2,7 +2,7 @@ dj-database-url==0.4.1
 Django==1.10.1
 django-filter==0.14.0
 django-jsonify==0.3.0
-djangorestframework==3.4.6
+djangorestframework==3.11.2
 elasticsearch==2.4.0
 gunicorn==19.6.0
 jsonify==0.5
