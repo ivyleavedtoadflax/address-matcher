@@ -8,5 +8,5 @@ gunicorn==19.6.0
 jsonify==0.5
 Markdown==2.6.6
 psycopg2==2.6.2
-urllib3==1.18
+urllib3==1.26.5
 whitenoise==3.2.1
